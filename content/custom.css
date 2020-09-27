@@ -1,82 +1,45 @@
 /* Colouring */
-.navbar-custom, .navbar-nav, .navbar-collapse,
- .navbar-default .navbar-nav > li > a, .navbar-header > .navbar-brand{
-    color:#FFF;
-    background-color: #3d59AB;
-}
-
-.navbar-header > button{
-    background-color: #FFF;
-}
-
-.navbar-default .navbar-nav > li > a:hover, navbar-default .navbar-nav > li > a:focus,
- .navbar-header > .navbar-brand:hover {
-    background-color: #6495ed;
-    color: #FFF;
-}
-
-.title {
-    background-color: #000;
-    background: rgba(0,0,0, 0.7);
-    color: #FFF;
-}
-
-h1 {
-    font-weight: 300;
-}
-
 
 /* Buttons */
-button {
-  transition-duration: 0.4s;
-  font-size: 20px;
-  background-color: white;
-  border-radius: 4px;
-}
-
-button:hover {
-  background-color: #535353;
-  color: white;
-}
 
 /* Spacing */
 img {
     max-width: 100%;
 }
 
-#splash-container {
-    padding-left: 5%;
-    padding-right: 5%;
-}
+/* #splash-container { */
+/*     padding-left: 5%; */
+/*     padding-right: 5%; */
+/* } */
 
-.image-container {
-    max-width:  inherit;
-    max-height: inherit;
-    justify-content: center;
-    position: relative;
-    margin: auto;
-    backgound-color: #FFF;
-}
+/* .image-container { */
+/*     max-width:  inherit; */
+/*     max-height: inherit; */
+/*     justify-content: center; */
+/*     position: relative; */
+/*     margin: auto; */
+/*     backgound-color: #FFF; */
+/* } */
 
 .card-title, .card-text, .span, .footer, .display-3, #contact {
     text-align: center;
 }
 
-.thumbnail, .fancybox {
-    padding: 5px;
-    backgound-color: #FFF;
-    max-width:  inherit;
-    max-height: inherit;
-}
+/* .thumbnail, .fancybox { */
+/*     padding: 5px; */
+/*     backgound-color: #FFF; */
+/*     max-width:  inherit; */
+/*     max-height: inherit; */
+/* } */
 
-.artwork {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-bottom: 3em;
-    margin-top: 1em;
-}
+/* .artwork { */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     text-align: center; */
+/*     margin-bottom: 3em; */
+/*     margin-top: 1em; */
+/* } */
 
-.blockquote {
-    border-left: none;
-}
+/* .blockquote { */
+/*     border-left: none; */
+/* } */
