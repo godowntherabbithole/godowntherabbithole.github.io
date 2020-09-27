@@ -1,3 +1,7 @@
 #+TITLE: Down the rabbit hole
-#+AUTHOR: UWC
-* Soon
+#+AUTHOR: Welch Collective
+
+#+CAPTION: Suggestive but not representative of final product
+[[./media/despair.jpg]]
+#+NAME:   fig:Despair
+
