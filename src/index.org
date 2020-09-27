@@ -1,7 +1,0 @@
-#+TITLE: Down the rabbit hole
-#+AUTHOR: Welch Collective
-
-#+CAPTION: Suggestive but not representative of final product
-[[./media/despair.jpg]]
-#+NAME:   fig:Despair
-
