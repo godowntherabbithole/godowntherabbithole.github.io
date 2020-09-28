@@ -7,39 +7,11 @@ img {
     max-width: 100%;
 }
 
-/* #splash-container { */
-/*     padding-left: 5%; */
-/*     padding-right: 5%; */
-/* } */
 
-/* .image-container { */
-/*     max-width:  inherit; */
-/*     max-height: inherit; */
-/*     justify-content: center; */
-/*     position: relative; */
-/*     margin: auto; */
-/*     backgound-color: #FFF; */
-/* } */
-
-.card-title, .card-text, .span, .footer, .display-3, #contact {
+.span, .center-text, .footer {
     text-align: center;
 }
 
-/* .thumbnail, .fancybox { */
-/*     padding: 5px; */
-/*     backgound-color: #FFF; */
-/*     max-width:  inherit; */
-/*     max-height: inherit; */
-/* } */
-
-/* .artwork { */
-/*     justify-content: center; */
-/*     align-items: center; */
-/*     text-align: center; */
-/*     margin-bottom: 3em; */
-/*     margin-top: 1em; */
-/* } */
-
-/* .blockquote { */
-/*     border-left: none; */
-/* } */
+.float-right {
+    float: right;
+}
